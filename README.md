@@ -5,7 +5,7 @@ I am a junior high school student who loves programming, gaming, and art.
 
 I have a website called [Gamitopia](https://gamitopia.herokuapp.com) where I publish my games and apps and make blogs/news posts about the progress and new releases. There you can see some of my projects and a bit off the process that goes into making them.
 
-<img src="https://github.com/Jondolf/Gamitopia/blob/master/src/assets/images/paradise_island.png" width="250" height="250"/>
+<img src="https://github.com/Jondolf/Gamitopia/blob/master/src/assets/images/gamitopia_logo_circle.png" width="250" height="250"/>
 
 ### What technologies and programming languages I have used 💻
 
