@@ -11,10 +11,6 @@ I have a website called [Gamitopia](https://gamitopia.herokuapp.com) where I pub
 
 I mainly use web technologies, mostly Vue.js with HTML, TS and SCSS, but I also like to explore and experiment with very different technologies. I have used Angular with Ionic. I have also used the Unity game engine (with C#) a bit and have created some small test games with it.
 
-### My current projects 🕹
-
-I'm currently working on a mobile app made with Angular and Ionic. It will be published to Google Play soon. It will be one of my largest projects so far, and I am very excited to release it.  
-
 ### How to contact me ✉
 
 Currently you can contact me by sending an email to gamitopia@gmail.com
