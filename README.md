@@ -9,7 +9,7 @@ I have a website called [Gamitopia](https://gamitopia.herokuapp.com) where I pub
 
 ### What technologies and programming languages I have used 💻
 
-I mainly use web technologies, mostly Vue.js with HTML, TS and SCSS, but I also like to explore and experiment with very different technologies. I have used Angular with Ionic. I have also used the Unity game engine (with C#) a bit and have created some small test games with it.
+I mainly use web technologies, mostly Vue.js with HTML, TS and SCSS, but I also like to explore and experiment with very different technologies. I have used Ionic with Angular to make a [Calculator app for Android](https://github.com/Jondolf/Calculator). I have also used the Unity game engine (with C#) a bit and have created some small test games with it. For 3D-modeling I use [Blender](https://www.blender.org/).
 
 ### How to contact me ✉
 
