@@ -6,7 +6,7 @@ I make programming projects for fun and for learning purposes, and I like trying
 
 ## Highlights
 
-Below are a few of my bigger projects amd achievemnts.
+Below are a few of my bigger projects.
 
 ### Gamitopia 🌴
 
