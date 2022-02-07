@@ -12,8 +12,6 @@ Below are a few of my bigger projects.
 
 [Gamitopia](https://gamitopia.herokuapp.com) is a website where I publish my games and apps and make blogs/news posts about the progress and new releases. There you can see some of my projects and a bit off the process of making them.
 
-<img src="https://github.com/Jondolf/Gamitopia/blob/master/src/assets/images/gamitopia_logo_circle.png" width="250" height="250"/>
-
 ### Calculator ➗
 
 [Calculator](https://play.google.com/store/apps/details?id=com.gamitopia.calculator) is a free Android calculator app that I made with Ionic Angular. It includes a basic calculator with a semi-customizable layout, many unit converters (e.g. from centimeters to inches or from Euros to US dollars), a simple chart creation tool and a graphing calculator. It is quite customizable and has many different light and dark themes. It is my first ever mobile app.
