@@ -8,6 +8,21 @@ I make programming projects for fun and for learning purposes, and I like trying
 
 Below are a few of my bigger projects.
 
+### [Algorithm website 🤖](https://github.com/Jondolf/rust-algorithms) (unreleased, under active development)
+
+I am currently developing an interactive algorithm visualization website, made almost entirely with Rust and the [Yew frontend framework](https://yew.rs/). The app is primarily for fun and for learning purposes, but I plan on releasing it when I believe it's ready enough.
+
+The app only has sorting algorithms (as of 12th of March 2022), but I will most likely be adding path-finding algorithms (and other algorithm types) in the future. Developing this is an incredible learning experience, as it covers things like:
+
+- Understanding various algorithms, implementing them and writing their descriptions
+- Rust, WebAssembly and working with Rust on the web
+- Frontend design
+- Drawing on the HTML canvas interactively (from Rust, using web apis through web-sys)
+- Audio with web apis (for the visualizations)
+- Progressive Web Apps
+
+...and a lot more. In my opinion, this is my most polished and involved project so far.
+
 ### Gamitopia 🌴
 
 [Gamitopia](https://gamitopia.herokuapp.com) is a website where I publish my games and apps and make blogs/news posts about the progress and new releases. There you can see some of my projects and a bit off the process of making them.
