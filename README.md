@@ -8,11 +8,11 @@ I make programming projects for fun and for learning purposes, and I like trying
 
 Below are a few of my bigger projects.
 
-### [Algorithm website 🤖](https://github.com/Jondolf/rust-algorithms) (unreleased, under active development)
+### [Algorithm website 🤖](https://github.com/Jondolf/rust-algorithms) (unreleased, under development)
 
 I am currently developing an interactive algorithm visualization website, made almost entirely with Rust and the [Yew frontend framework](https://yew.rs/). The app is primarily for fun and for learning purposes, but I plan on releasing it when I believe it's ready enough.
 
-The app only has sorting algorithms (as of 12th of March 2022), but I will most likely be adding path-finding algorithms (and other algorithm types) in the future. Developing this is an incredible learning experience, as it covers things like:
+The app contains sorting and pathfinding algorithms (as of 21st of April 2022). Developing this is an incredible learning experience, as it covers things like:
 
 - Understanding various algorithms, implementing them and writing their descriptions
 - Rust, WebAssembly and working with Rust on the web
