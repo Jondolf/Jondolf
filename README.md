@@ -8,24 +8,24 @@ I make programming projects for fun and for learning purposes, and I like trying
 
 Below are a few of my bigger projects.
 
-### [Algorithm website 🤖](https://github.com/Jondolf/rust-algorithms) (unreleased, under development)
+### [Algorust](https://github.com/Jondolf/Algorust)
 
-I am currently developing an interactive algorithm visualization website, made almost entirely with Rust and the [Yew frontend framework](https://yew.rs/). The app is primarily for fun and for learning purposes, but I plan on releasing it when I believe it's ready enough.
-
-The app contains sorting and pathfinding algorithms (as of 21st of April 2022). Developing this is an incredible learning experience, as it covers things like:
+Algorust is an algorithm visualization website made almost entirely with Rust and the [Yew frontend framework](https://yew.rs/). It contains sorting and pathfinding algorithms (as of 3rd of August 2022) and I might make more at some point in the future. Developing this is an incredible learning experience, as it covers things like:
 
 - Understanding various algorithms, implementing them and writing their descriptions
 - Rust, WebAssembly and working with Rust on the web
 - Frontend design
 - Drawing on the HTML canvas interactively (from Rust, using web apis through web-sys)
-- Audio with web apis (for the visualizations)
+- Audio with web apis
 - Progressive Web Apps
 
 ...and a lot more. In my opinion, this is my most polished and involved project so far.
 
 ### Gamitopia 🌴
 
-[Gamitopia](https://gamitopia.herokuapp.com) is a website where I publish my games and apps and make blogs/news posts about the progress and new releases. There you can see some of my projects and a bit off the process of making them.
+[Gamitopia](https://gamitopia.herokuapp.com) is a website where I publish my games and apps and make blog posts about the progress and new releases. There you can see some of my projects and a bit off the process of making them.
+
+I haven't updated it in a long time so it's quite outdated, but I will return to it some day with a full website refresh.
 
 ### Calculator ➗
 
@@ -36,7 +36,3 @@ The app contains sorting and pathfinding algorithms (as of 21st of April 2022). 
 I plan to keep learning programming technologies and concepts, and making more games, apps and other projects. School is my main priority, so progress may be slow at times due to me being busy or tired.
 
 Currently I'd like to learn more about algorithms and data structures, and about how computers really work under the hood. I want to develop a bigger picture of how computers and softare work, and to understand how and why things do what they do and how different things may impact performance.
-
-### How to contact me ✉
-
-Currently you can contact me by sending an email to gamitopia@gmail.com
