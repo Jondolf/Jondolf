@@ -1,8 +1,8 @@
 # Hello there 👋
 
-I am a high school student who is interested in various different topics, such as science, technology, web development, art, games, and game development. In my spare time I like to develop projects that allow me to dive deeper into these areas, and I'm always looking to try out new things.
+I am a high school student interested in various different topics, such as science, technology, web development, art, games, and game development. In my spare time I like to develop projects that allow me to dive deeper into these areas, and I'm always looking to try out new things.
 
-Currently I'm rebuilding my old personal website [Gamitopia](https://gamitopia.herokuapp.com) from scratch (its name might change) and developing [Svelte Math Graph](https://github.com/Jondolf/svelte-math-graph), an experimental component library (and website) for easily making mathematical graphs and visualizations. Recently I have also been really interested in the [bevy](https://bevyengine.org) game engine, and I am developing [bevy_xpbd](https://github.com/Jondolf/bevy_xpbd), a physics engine based on Extended Position Based Dynamics.
+Currently, I'm working on my new personal wesite https://joonaa.com and developing [bevy_xpbd](https://github.com/Jondolf/bevy_xpbd), a [Bevy](https://bevyengine.org/) physics engine that uses Extended Position Based Dynamics. On my website, I will share my work and write blog posts about whatever I'm interested in or working on, like the physics engine.
 
 One of my best projects so far is [Algorust](https://github.com/Jondolf/Algorust), an algorithm visualization website made almost entirely with Rust and the [Yew](https://yew.rs/) frontend framework. Currently it contains interactive visualizations for various sorting and pathfinding algorithms, and I will return to the project to add more at some point.
 
