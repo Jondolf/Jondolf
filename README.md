@@ -2,7 +2,7 @@
 
 I am a high school student interested in various different topics, such as science, technology, web development, art, games, and game development. In my spare time I like to develop projects that allow me to dive deeper into these areas, and I'm always looking to try out new things.
 
-Currently, I'm working on my new personal website https://joonaa.com and developing [bevy_xpbd](https://github.com/Jondolf/bevy_xpbd), a [Bevy](https://bevyengine.org/) physics engine that uses Extended Position Based Dynamics. On my website, I will share my work and write blog posts about whatever I'm interested in or working on, like the physics engine.
+Currently, I'm working on my new personal website https://joonaa.dev (not released yet) and developing [bevy_xpbd](https://github.com/Jondolf/bevy_xpbd), a [Bevy](https://bevyengine.org/) physics engine that uses Extended Position Based Dynamics. On my website, I will share my work and write blog posts about whatever I'm interested in or working on, like the physics engine.
 
 One of my best projects so far is [Algorust](https://github.com/Jondolf/Algorust), an algorithm visualization website made almost entirely with Rust and the [Yew](https://yew.rs/) frontend framework. Currently it contains interactive visualizations for various sorting and pathfinding algorithms, and I will return to the project to add more at some point.
 
